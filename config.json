@@ -1,0 +1,12 @@
+{
+  "rpcUrl": "http://localhost:8545",
+  "mainAccount": "0x32311e7b41d06e8ac62fa00a95b9fb0520f4e30b",
+  "childPassword": "",
+  "speed": 5000,
+  "rpcuser": "tzwuser",
+  "rpcpassword": "tzwpassword",
+  "rpcallowip": [
+    "127.0.0.1",
+    "47.52.157.234"
+  ]
+}

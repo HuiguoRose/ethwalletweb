@@ -1,0 +1,12 @@
+.settings/
+.idea/
+.project
+*.iml
+.classpath
+/out/
+/bin/
+/build/
+/test/
+/node_modules/
+*.log
+*.db
